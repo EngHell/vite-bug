@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es2020",
+        "moduleResolution": "Node",
+        "allowJs": true,
+        "baseUrl": "./",
+        "strict": true,                 // Enable strict type-checking options
+    },
+    "include": ["./resources/js/**/*"]  // Frontend paths pattern
+}
